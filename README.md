@@ -1,6 +1,5 @@
-## 예심 첫 소절 '빈 의자와'부터 모두를 충격에 몰아넣었던 
-## 내일은국민가수의 숯불청년 김동현 님을 테마로 한 수박게임입니다.
-
+## 예심 첫 소절 '빈 의자와'부터 모두를 충격에 몰아넣었던 내일은국민가수의 숯불청년 김동현 님을 테마로 한 수박게임입니다.
+![숯총각 김동현 수박게임](./res/share.jpg)
 ## la kɔ̃fjɑ̃s가 만든 수박게임 시리즈 손진욱 편
 - [기본모드](https://laconfianceensoi.github.io/nooktermelon/)
 - [물리적 특성을 조금 변형한 이른바 '눅공모드'](https://laconfiance.github.io/nooktermelon)
